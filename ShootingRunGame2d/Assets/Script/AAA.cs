@@ -8,6 +8,7 @@ public class AAA : MonoBehaviour
     void Start()
     {
         GetComponent<Rigidbody2D>();
+       
     }
 
     // Update is called once per frame
